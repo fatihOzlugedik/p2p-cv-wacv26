@@ -1,0 +1,27 @@
+title: Pixels to Patients (P2P-CV) — WACV 2026
+description: Bridging CV state-of-the-art with clinical impact
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
+plugins: [jekyll-include-cache, jekyll-feed]
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      toc: true
+      toc_sticky: true
+
+# Navigation
+nav:
+  - title: Home
+    url: /
+  - title: Call for Papers
+    url: /cfp/
+  - title: Important Dates
+    url: /dates/
+  - title: Invited Speakers
+    url: /speakers/
+  - title: Organizers
+    url: /team/
+  - title: Program
+    url: /program/
