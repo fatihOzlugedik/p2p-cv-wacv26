@@ -16,7 +16,7 @@ main:
   - title: Home
     url: /
   - title: Call for Papers
-    url: cfp/
+    url: /cfp/
   - title: Important Dates
     url: /dates/
   - title: Invited Speakers
