@@ -10,18 +10,19 @@ defaults:
       layout: single
       toc: true
       toc_sticky: true
+baseurl: "/p2p-cv-wacv26"
 
 # Navigation
 main:
   - title: Home
-    url: /
+    url: "{{ site.baseurl }}/"
   - title: Call for Papers
-    url: /cfp/
+    url: "{{ site.baseurl }}/cfp/"
   - title: Important Dates
-    url: /dates/
+    url: "{{ site.baseurl }}/dates/"
   - title: Invited Speakers
-    url: /speakers/
+    url: "{{ site.baseurl }}/speakers/"
   - title: Organizers
-    url: /team/
+    url: "{{ site.baseurl }}/team/"
   - title: Program
-    url: /program/
+    url: "{{ site.baseurl }}/program/"
