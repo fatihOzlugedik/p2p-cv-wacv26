@@ -12,7 +12,7 @@ defaults:
       toc_sticky: true
 
 # Navigation
-nav:
+main:
   - title: Home
     url: /
   - title: Call for Papers
